@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
         - name: status
-          image: 574868243623.dkr.ecr.eu-central-1.amazonaws.com/hello-ecrrepository:latest
+          image: 086015456585.dkr.ecr.ap-northeast-2.amazonaws.com/edumgt-ecr
           ports:
             - containerPort: 8080
